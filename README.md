@@ -33,6 +33,7 @@
           features of questions length
           feature of number of common words
           feature of question popularity in dataset (leaky features)
+          used class re-weighting to train
 
  Evaluation:
  
