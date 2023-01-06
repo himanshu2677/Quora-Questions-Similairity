@@ -1,7 +1,6 @@
 # Quora-Questions-Similairity
  
  Kaggle : https://www.kaggle.com/c/quora-question-pairs
- Dataset : https://www.kaggle.com/competitions/quora-question-pairs/data
  
  Preprocessing:
      
