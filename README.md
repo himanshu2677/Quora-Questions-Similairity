@@ -1,4 +1,4 @@
-# Quora-Questions-Similairity
+# Quora-Questions-Similarity
  
  Kaggle : https://www.kaggle.com/c/quora-question-pairs
  
